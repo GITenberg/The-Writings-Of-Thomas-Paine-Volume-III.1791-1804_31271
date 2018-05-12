@@ -21,6 +21,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/1283
     wikipedia: http://en.wikipedia.org/wiki/Moncure_Daniel_Conway
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/31271#The-Writings-Of-Thomas-Paine-Volume-III.1791-1804
 gutenberg_issued: '2010-02-13'
 gutenberg_type: Text
 identifiers:
